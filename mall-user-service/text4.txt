@@ -1,1 +1,2 @@
 idea 1 dev
+linux add 1 dev 
